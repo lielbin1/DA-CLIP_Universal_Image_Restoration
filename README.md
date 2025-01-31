@@ -102,7 +102,7 @@ To create our **multi-degradation dataset**, we combined each of the **eight dat
 An **illustrative example** is shown below, where the left image contains a **single degradation (snowy)** and the right image contains **two simultaneous degradations (snowy-noisy)**:  
 
 <p align="center">
-  <img src="assets/example_degradations.png" alt="Example degradations" width="600">
+  <img src="images/snowy_noisy.png" alt="Example degradations" width="600">
 </p>
 
 ### 🔹 Download Dataset  
