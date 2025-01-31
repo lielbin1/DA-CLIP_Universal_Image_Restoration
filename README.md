@@ -59,14 +59,6 @@ python new_train.py
 ```
 This script trains a U-Net model for multi-degradation restoration using DA-CLIP’s extracted embeddings. The model learns to reconstruct high-quality images from lower-quality images containing exactly two simultaneous degradations.
 
-### 📌 Run Evaluation
-To evaluate the model's performance on degraded images, use:
-
-```bash
-python evaluate.py --input <path_to_image>
-```
-Replace <path_to_image> with the path to the degraded image you want to restore.
-
 
 ## 📂 Dataset  
 
